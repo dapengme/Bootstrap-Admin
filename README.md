@@ -7,9 +7,9 @@
 
 ## Screenshots
 
-* [Table - Screenshot nr. 1](https://github.com/aydao/Bootstrap-Admin/screenshots/screenshot-table-1.png)
-* [Table - Screenshot nr. 2](https://github.com/aydao/Bootstrap-Admin/screenshots/screenshot-table-2.png)
-* [Table - Screenshot nr. 3](https://github.com/aydao/Bootstrap-Admin/screenshots/screenshot-table-3.png)
+* [Table - Screenshot nr. 1](https://github.com/aydao/Bootstrap-Admin/blob/master/screenshots/screenshot-table-1.png?raw=true)
+* [Table - Screenshot nr. 2](https://github.com/aydao/Bootstrap-Admin/blob/master/screenshots/screenshot-table-2.png?raw=true)
+* [Table - Screenshot nr. 3](https://github.com/aydao/Bootstrap-Admin/blob/master/screenshots/screenshot-table-3.png?raw=true)
 
 ## License
 
